@@ -1,0 +1,14 @@
+C:\Users\alicanakarin\Desktop\learing c#\bin\Debug\net9.0\learing c#.exe
+C:\Users\alicanakarin\Desktop\learing c#\bin\Debug\net9.0\learing c#.deps.json
+C:\Users\alicanakarin\Desktop\learing c#\bin\Debug\net9.0\learing c#.runtimeconfig.json
+C:\Users\alicanakarin\Desktop\learing c#\bin\Debug\net9.0\learing c#.dll
+C:\Users\alicanakarin\Desktop\learing c#\bin\Debug\net9.0\learing c#.pdb
+C:\Users\alicanakarin\Desktop\learing c#\obj\Debug\net9.0\learing c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alicanakarin\Desktop\learing c#\obj\Debug\net9.0\learing c#.AssemblyInfoInputs.cache
+C:\Users\alicanakarin\Desktop\learing c#\obj\Debug\net9.0\learing c#.AssemblyInfo.cs
+C:\Users\alicanakarin\Desktop\learing c#\obj\Debug\net9.0\learing c#.csproj.CoreCompileInputs.cache
+C:\Users\alicanakarin\Desktop\learing c#\obj\Debug\net9.0\learing c#.dll
+C:\Users\alicanakarin\Desktop\learing c#\obj\Debug\net9.0\refint\learing c#.dll
+C:\Users\alicanakarin\Desktop\learing c#\obj\Debug\net9.0\learing c#.pdb
+C:\Users\alicanakarin\Desktop\learing c#\obj\Debug\net9.0\learing c#.genruntimeconfig.cache
+C:\Users\alicanakarin\Desktop\learing c#\obj\Debug\net9.0\ref\learing c#.dll
