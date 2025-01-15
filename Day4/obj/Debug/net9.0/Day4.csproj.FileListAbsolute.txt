@@ -12,3 +12,4 @@ C:\Users\alicanakarin\Desktop\learing c#\Day4\obj\Debug\net9.0\refint\Day4.dll
 C:\Users\alicanakarin\Desktop\learing c#\Day4\obj\Debug\net9.0\Day4.pdb
 C:\Users\alicanakarin\Desktop\learing c#\Day4\obj\Debug\net9.0\Day4.genruntimeconfig.cache
 C:\Users\alicanakarin\Desktop\learing c#\Day4\obj\Debug\net9.0\ref\Day4.dll
+C:\Users\alicanakarin\Desktop\learing c#\Day4\obj\Debug\net9.0\Day4.sourcelink.json

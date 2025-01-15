@@ -1,0 +1,15 @@
+C:\Users\alicanakarin\Desktop\learing c#\Day5HomeWork\bin\Debug\net9.0\Day5HomeWork.exe
+C:\Users\alicanakarin\Desktop\learing c#\Day5HomeWork\bin\Debug\net9.0\Day5HomeWork.deps.json
+C:\Users\alicanakarin\Desktop\learing c#\Day5HomeWork\bin\Debug\net9.0\Day5HomeWork.runtimeconfig.json
+C:\Users\alicanakarin\Desktop\learing c#\Day5HomeWork\bin\Debug\net9.0\Day5HomeWork.dll
+C:\Users\alicanakarin\Desktop\learing c#\Day5HomeWork\bin\Debug\net9.0\Day5HomeWork.pdb
+C:\Users\alicanakarin\Desktop\learing c#\Day5HomeWork\obj\Debug\net9.0\Day5HomeWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alicanakarin\Desktop\learing c#\Day5HomeWork\obj\Debug\net9.0\Day5HomeWork.AssemblyInfoInputs.cache
+C:\Users\alicanakarin\Desktop\learing c#\Day5HomeWork\obj\Debug\net9.0\Day5HomeWork.AssemblyInfo.cs
+C:\Users\alicanakarin\Desktop\learing c#\Day5HomeWork\obj\Debug\net9.0\Day5HomeWork.csproj.CoreCompileInputs.cache
+C:\Users\alicanakarin\Desktop\learing c#\Day5HomeWork\obj\Debug\net9.0\Day5HomeWork.sourcelink.json
+C:\Users\alicanakarin\Desktop\learing c#\Day5HomeWork\obj\Debug\net9.0\Day5HomeWork.dll
+C:\Users\alicanakarin\Desktop\learing c#\Day5HomeWork\obj\Debug\net9.0\refint\Day5HomeWork.dll
+C:\Users\alicanakarin\Desktop\learing c#\Day5HomeWork\obj\Debug\net9.0\Day5HomeWork.pdb
+C:\Users\alicanakarin\Desktop\learing c#\Day5HomeWork\obj\Debug\net9.0\Day5HomeWork.genruntimeconfig.cache
+C:\Users\alicanakarin\Desktop\learing c#\Day5HomeWork\obj\Debug\net9.0\ref\Day5HomeWork.dll
